@@ -1,10 +1,4 @@
-setup for deploying a simple **Node.js web application** using Docker and Kubernetes. This includes:
-
----
-
-### ✅ **Project Name (Repo Name):**
-
-`k8s-nodejs-hello-world`
+setup for deploying a simple **Node.js web application** using Docker and Kubernetes. 
 
 ---
 
